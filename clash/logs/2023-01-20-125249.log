@@ -1,0 +1,226 @@
+12:52:49 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+12:52:49 INF [API] listening addr=127.0.0.1:46203
+12:52:49 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+12:52:49 INF [Config] initial compatible provider name=🌍 国外媒体
+12:52:49 INF [Config] initial compatible provider name=🍃 应用净化
+12:52:49 INF [Config] initial compatible provider name=🍎 苹果服务
+12:52:49 INF [Config] initial compatible provider name=♻️ 自动选择
+12:52:49 INF [Config] initial compatible provider name=🚀 节点选择
+12:52:49 INF [Config] initial compatible provider name=📲 电报信息
+12:52:49 INF [Config] initial compatible provider name=🐟 漏网之鱼
+12:52:49 INF [Config] initial compatible provider name=🚀 手动切换
+12:52:49 INF [Config] initial compatible provider name=🎯 全球直连
+12:52:49 INF [Config] initial compatible provider name=🛑 全球拦截
+12:52:55 INF [TCP] connected lAddr=127.0.0.1:51176 rAddr=raw.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+12:59:47 INF [TCP] connected lAddr=127.0.0.1:41920 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+12:59:48 INF [TCP] connected lAddr=127.0.0.1:41934 rAddr=pypi.python.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+12:59:49 INF [TCP] connected lAddr=127.0.0.1:41950 rAddr=pypi.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+12:59:51 INF [TCP] connected lAddr=127.0.0.1:41956 rAddr=registry.npm.taobao.org:443 mode=rule rule=GeoIP(CN) proxy=🎯 全球直连[DIRECT]
+12:59:51 INF [TCP] connected lAddr=127.0.0.1:41960 rAddr=registry.npmmirror.com:443 mode=rule rule=GeoIP(CN) proxy=🎯 全球直连[DIRECT]
+13:04:53 INF [TCP] connected lAddr=127.0.0.1:52038 rAddr=yarnpkg.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+13:04:54 INF [TCP] connected lAddr=127.0.0.1:52054 rAddr=classic.yarnpkg.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+13:04:54 INF [TCP] connected lAddr=127.0.0.1:41226 rAddr=yarnpkg.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+13:05:00 INF [TCP] connected lAddr=127.0.0.1:41232 rAddr=classic.yarnpkg.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+13:05:00 INF [TCP] connected lAddr=127.0.0.1:41246 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+13:05:03 INF [TCP] connected lAddr=127.0.0.1:41256 rAddr=objects.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+13:05:06 INF [TCP] connected lAddr=127.0.0.1:57998 rAddr=dl.yarnpkg.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+13:07:04 INF [TCP] connected lAddr=127.0.0.1:47532 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+13:13:17 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+13:13:17 INF [Config] initial compatible provider name=🚀 手动切换
+13:13:17 INF [Config] initial compatible provider name=🚀 节点选择
+13:13:17 INF [Config] initial compatible provider name=🍎 苹果服务
+13:13:17 INF [Config] initial compatible provider name=📲 电报信息
+13:13:17 INF [Config] initial compatible provider name=🐟 漏网之鱼
+13:13:17 INF [Config] initial compatible provider name=♻️ 自动选择
+13:13:17 INF [Config] initial compatible provider name=🎯 全球直连
+13:13:17 INF [Config] initial compatible provider name=🍃 应用净化
+13:13:17 INF [Config] initial compatible provider name=🌍 国外媒体
+13:13:17 INF [Config] initial compatible provider name=🛑 全球拦截
+14:54:53 INF [TCP] connected lAddr=127.0.0.1:55638 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:54:53 INF [TCP] connected lAddr=127.0.0.1:55654 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:54:55 INF [TCP] connected lAddr=127.0.0.1:55666 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:54:57 INF [TCP] connected lAddr=127.0.0.1:55682 rAddr=google.com:80 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:54:57 INF [TCP] connected lAddr=127.0.0.1:55698 rAddr=www.google.com:80 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:54:58 INF [TCP] connected lAddr=127.0.0.1:55706 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:54:58 INF [TCP] connected lAddr=127.0.0.1:55718 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:54:58 INF [TCP] connected lAddr=127.0.0.1:55734 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:54:58 INF [TCP] connected lAddr=127.0.0.1:55750 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:54:59 INF [TCP] connected lAddr=127.0.0.1:55766 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+14:54:59 INF [TCP] connected lAddr=127.0.0.1:55776 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+14:54:59 INF [TCP] connected lAddr=127.0.0.1:55786 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:54:59 INF [TCP] connected lAddr=127.0.0.1:55790 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:55:00 INF [TCP] connected lAddr=127.0.0.1:55800 rAddr=apis.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:00 INF [TCP] connected lAddr=127.0.0.1:55804 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:55:00 INF [TCP] connected lAddr=127.0.0.1:55806 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:55:01 INF [TCP] connected lAddr=127.0.0.1:55820 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:01 INF [TCP] connected lAddr=127.0.0.1:55838 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🚀 节点选择[香港 01]
+14:55:01 INF [TCP] connected lAddr=127.0.0.1:55848 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🚀 节点选择[香港 01]
+14:55:01 INF [TCP] connected lAddr=127.0.0.1:55832 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🚀 节点选择[香港 01]
+14:55:01 INF [TCP] connected lAddr=127.0.0.1:55824 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🚀 节点选择[香港 01]
+14:55:05 INF [TCP] connected lAddr=127.0.0.1:53080 rAddr=cn.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=Ⓜ️ 微软服务[香港 01]
+14:55:05 INF [TCP] connected lAddr=127.0.0.1:53084 rAddr=id.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:06 INF [TCP] connected lAddr=127.0.0.1:53094 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(fonts.gstatic.com) proxy=🎯 全球直连[DIRECT]
+14:55:06 INF [TCP] connected lAddr=127.0.0.1:53096 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=🌍 国外媒体[香港 01]
+14:55:06 INF [TCP] connected lAddr=127.0.0.1:53112 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=🌍 国外媒体[香港 01]
+14:55:06 INF [TCP] connected lAddr=127.0.0.1:53126 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:55:06 INF [TCP] connected lAddr=127.0.0.1:53132 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:07 INF [TCP] connected lAddr=127.0.0.1:53138 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 01]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53140 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53152 rAddr=static.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53156 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(fonts.gstatic.com) proxy=🎯 全球直连[DIRECT]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53164 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53166 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:55:09 INF [TCP] connected lAddr=127.0.0.1:53168 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53190 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53240 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53214 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53228 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53206 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53222 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53246 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53170 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:10 INF [TCP] connected lAddr=127.0.0.1:53184 rAddr=developer.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53298 rAddr=securemetrics.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53324 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53308 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53316 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53288 rAddr=www.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:12 INF [TCP] connected lAddr=127.0.0.1:53334 rAddr=ocsp.apple.com:80 mode=rule rule=DomainSuffix(apple.com) proxy=🍎 苹果服务[香港 01]
+14:55:19 INF [TCP] connected lAddr=127.0.0.1:53338 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:55:20 INF [TCP] connected lAddr=127.0.0.1:53354 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:55:20 INF [TCP] connected lAddr=127.0.0.1:53366 rAddr=static.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:55:20 INF [TCP] connected lAddr=127.0.0.1:53380 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:55:21 INF [TCP] connected lAddr=127.0.0.1:53394 rAddr=encrypted-vtbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=🚀 节点选择[香港 01]
+14:55:25 INF [TCP] connected lAddr=127.0.0.1:59418 rAddr=zh.m.wiktionary.org:443 mode=rule rule=DomainSuffix(wiktionary.org) proxy=🚀 节点选择[香港 01]
+14:55:27 INF [TCP] connected lAddr=127.0.0.1:59428 rAddr=login.wikimedia.org:443 mode=rule rule=DomainSuffix(wikimedia.org) proxy=🚀 节点选择[香港 01]
+14:55:27 INF [TCP] connected lAddr=127.0.0.1:59444 rAddr=upload.wikimedia.org:443 mode=rule rule=DomainSuffix(wikimedia.org) proxy=🚀 节点选择[香港 01]
+14:55:43 INF [TCP] connected lAddr=127.0.0.1:43466 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:55:45 INF [TCP] connected lAddr=127.0.0.1:43474 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+14:55:48 INF [TCP] connected lAddr=127.0.0.1:43484 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+14:55:51 INF [TCP] connected lAddr=127.0.0.1:43506 rAddr=g.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+14:55:51 INF [TCP] connected lAddr=127.0.0.1:43500 rAddr=g-api.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=🎯 全球直连[DIRECT]
+14:55:51 INF [TCP] connected lAddr=127.0.0.1:43528 rAddr=status.rapidssl.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:55:51 INF [TCP] connected lAddr=127.0.0.1:36116 rAddr=beacon.tingyun.com:443 mode=rule rule=DomainSuffix(beacon.tingyun.com) proxy=🍃 应用净化[REJECT]
+14:57:12 INF [TCP] connected lAddr=127.0.0.1:41320 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=🛑 全球拦截[REJECT]
+14:57:13 INF [TCP] connected lAddr=127.0.0.1:41328 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:13 INF [TCP] connected lAddr=127.0.0.1:41330 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:14 INF [TCP] connected lAddr=127.0.0.1:41332 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:16 INF [TCP] connected lAddr=127.0.0.1:41338 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:17 INF [TCP] connected lAddr=127.0.0.1:41360 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:17 INF [TCP] connected lAddr=127.0.0.1:41372 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:17 INF [TCP] connected lAddr=127.0.0.1:41352 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:17 INF [TCP] connected lAddr=127.0.0.1:41378 rAddr=www.baidu.com:443 mode=rule rule=DomainSuffix(baidu.com) proxy=🎯 全球直连[DIRECT]
+14:57:18 INF [TCP] connected lAddr=127.0.0.1:41394 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:57:18 INF [TCP] connected lAddr=127.0.0.1:41410 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:57:22 INF [TCP] connected lAddr=127.0.0.1:41412 rAddr=ogs.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:24 INF [TCP] connected lAddr=127.0.0.1:43366 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(ssl.gstatic.com) proxy=🎯 全球直连[DIRECT]
+14:57:24 INF [TCP] connected lAddr=127.0.0.1:43376 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:57:50 INF [TCP] connected lAddr=127.0.0.1:57858 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:50 INF [TCP] connected lAddr=127.0.0.1:57868 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57888 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57908 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57900 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57914 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57872 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:57928 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:40940 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:40944 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:57:51 INF [TCP] connected lAddr=127.0.0.1:40952 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:58:03 INF [TCP] connected lAddr=127.0.0.1:51288 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:58:11 INF [TCP] connected lAddr=127.0.0.1:58540 rAddr=unix.stackexchange.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:12 INF [TCP] connected lAddr=127.0.0.1:58544 rAddr=ajax.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58654 rAddr=www.googletagmanager.com:443 mode=rule rule=DomainSuffix(googletagmanager.com) proxy=🎯 全球直连[DIRECT]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58638 rAddr=lh5.googleusercontent.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58586 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58576 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58624 rAddr=i.stack.imgur.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58568 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58600 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58564 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58548 rAddr=cdn.sstatic.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:13 INF [TCP] connected lAddr=127.0.0.1:58714 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+14:58:14 INF [TCP] connected lAddr=127.0.0.1:58716 rAddr=198.252.206.25:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:14 INF [TCP] connected lAddr=127.0.0.1:58722 rAddr=www.google-analytics.com:443 mode=rule rule=DomainSuffix(google-analytics.com) proxy=🛑 全球拦截[REJECT]
+14:58:15 INF [TCP] connected lAddr=127.0.0.1:58740 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=🛑 全球拦截[REJECT]
+14:58:15 INF [TCP] connected lAddr=127.0.0.1:58730 rAddr=graph.facebook.com:443 mode=rule rule=DomainKeyword(facebook) proxy=🚀 节点选择[香港 01]
+14:58:15 INF [TCP] connected lAddr=127.0.0.1:58746 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:15 INF [TCP] connected lAddr=127.0.0.1:58760 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:16 INF [TCP] connected lAddr=127.0.0.1:58768 rAddr=cdn.cookielaw.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58608 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58666 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58686 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58700 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58670 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 WRN [TCP] dial failed error=dial tcp4 69.63.184.30:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58708 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:18 INF [TCP] connected lAddr=127.0.0.1:58772 rAddr=cn.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=Ⓜ️ 微软服务[香港 01]
+14:58:22 INF [TCP] connected lAddr=127.0.0.1:54312 rAddr=www.google-analytics.com:443 mode=rule rule=DomainSuffix(google-analytics.com) proxy=🛑 全球拦截[REJECT]
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58778 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58780 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58802 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58790 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58792 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:23 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:58812 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54326 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54344 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54336 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54356 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54370 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:28 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54374 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54378 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54392 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54396 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54406 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54412 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:33 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54422 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54400 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54424 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54416 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54438 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54454 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54446 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:38 INF [TCP] connected lAddr=127.0.0.1:54510 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54470 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54484 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54480 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54486 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54506 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:43 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:54502 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46246 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46250 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46262 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46268 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46270 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:48 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46284 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46294 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46296 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46312 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46328 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46330 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:53 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:46336 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51068 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51076 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51082 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51088 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51108 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:58:58 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51104 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51114 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51128 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51134 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51138 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51160 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:03 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51150 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:07 INF [TCP] connected lAddr=127.0.0.1:56688 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56622 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56630 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56644 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56654 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56672 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:08 WRN [TCP] dial failed error=dial tcp4 128.242.240.117:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56658 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:11 INF [TCP] connected lAddr=127.0.0.1:51816 rAddr=wiki.archlinux.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:59:13 WRN [TCP] dial failed error=dial tcp4 31.13.96.195:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56694 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:13 WRN [TCP] dial failed error=dial tcp4 31.13.96.195:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56698 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:13 WRN [TCP] dial failed error=dial tcp4 31.13.96.195:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:56712 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:18 WRN [TCP] dial failed error=dial tcp4 31.13.96.195:443: i/o timeout proxy=🎯 全球直连 lAddr=127.0.0.1:51822 rAddr=www.gravatar.com:443 rule=DomainSuffix rulePayload=gravatar.com
+14:59:18 INF [TCP] connected lAddr=127.0.0.1:51826 rAddr=wiki.archlinuxcn.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+14:59:29 INF [TCP] connected lAddr=127.0.0.1:53770 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=DomainSuffix(safebrowsing.googleapis.com) proxy=🎯 全球直连[DIRECT]
+14:59:29 INF [TCP] connected lAddr=127.0.0.1:53772 rAddr=commons.wikimedia.org:443 mode=rule rule=DomainSuffix(wikimedia.org) proxy=🚀 节点选择[香港 01]

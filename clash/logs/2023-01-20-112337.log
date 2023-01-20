@@ -1,0 +1,23 @@
+11:23:37 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+11:23:37 INF [API] listening addr=127.0.0.1:42697
+11:23:37 INF [Config] initial compatible provider name=🚀 节点选择
+11:23:37 INF [Config] initial compatible provider name=📲 电报信息
+11:23:37 INF [Config] initial compatible provider name=🍎 苹果服务
+11:23:37 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+11:23:37 INF [Config] initial compatible provider name=🍃 应用净化
+11:23:37 INF [Config] initial compatible provider name=🚀 手动切换
+11:23:37 INF [Config] initial compatible provider name=♻️ 自动选择
+11:23:37 INF [Config] initial compatible provider name=🐟 漏网之鱼
+11:23:37 INF [Config] initial compatible provider name=🛑 全球拦截
+11:23:37 INF [Config] initial compatible provider name=🎯 全球直连
+11:23:37 INF [Config] initial compatible provider name=🌍 国外媒体
+11:23:43 INF [TCP] connected lAddr=127.0.0.1:36832 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+11:23:44 INF [TCP] connected lAddr=127.0.0.1:34538 rAddr=objects.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+11:24:47 INF [TCP] connected lAddr=127.0.0.1:56248 rAddr=pypi.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:24:48 INF [TCP] connected lAddr=127.0.0.1:56250 rAddr=files.pythonhosted.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:26:00 INF [TCP] connected lAddr=127.0.0.1:53172 rAddr=pypi.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:26:02 INF [TCP] connected lAddr=127.0.0.1:53184 rAddr=files.pythonhosted.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:26:37 INF [TCP] connected lAddr=127.0.0.1:35448 rAddr=pypi.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:26:38 INF [TCP] connected lAddr=127.0.0.1:35452 rAddr=files.pythonhosted.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:28:12 INF [TCP] connected lAddr=127.0.0.1:39090 rAddr=pypi.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+11:28:13 INF [TCP] connected lAddr=127.0.0.1:39106 rAddr=files.pythonhosted.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]

@@ -1,0 +1,12 @@
+2023-01-20 01:49:42.370 [info] Extension host with pid 37729 started
+2023-01-20 01:49:42.417 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-20 01:49:42.769 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-20 01:49:42.770 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-20 01:49:42.911 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2023-01-20 01:49:42.913 [info] Eager extensions activated
+2023-01-20 01:49:42.916 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:49:42.916 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:49:42.917 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:49:42.917 [info] ExtensionService#_doActivateExtension PascalReitermann93.vscode-yaml-sort, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:49:48.464 [info] Extension host terminating: received terminate message from renderer
+2023-01-20 01:49:48.472 [info] Extension host with pid 37729 exiting with code 0

@@ -1,0 +1,21 @@
+2023-01-20 01:52:03.513 [info] Extension host with pid 38662 started
+2023-01-20 01:52:03.575 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-20 01:52:03.649 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-20 01:52:03.649 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-20 01:52:03.699 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2023-01-20 01:52:03.719 [info] Eager extensions activated
+2023-01-20 01:52:03.735 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:52:03.735 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:52:03.735 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:52:03.736 [info] ExtensionService#_doActivateExtension PascalReitermann93.vscode-yaml-sort, startup: false, activationEvent: 'onStartupFinished'
+2023-01-20 01:53:12.896 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-20 01:53:12.896 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-20 01:53:12.897 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-20 01:53:12.993 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2023-01-20 01:53:12.993 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2023-01-20 01:53:13.067 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2023-01-20 01:53:13.260 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2023-01-20 01:53:13.261 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2023-01-20 01:53:13.261 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2023-01-20 01:53:17.168 [info] Extension host terminating: received terminate message from renderer
+2023-01-20 01:53:17.179 [info] Extension host with pid 38662 exiting with code 0

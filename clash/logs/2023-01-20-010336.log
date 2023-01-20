@@ -1,0 +1,17 @@
+01:03:36 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+01:03:36 INF [API] listening addr=127.0.0.1:38221
+01:03:36 INF [Config] initial compatible provider name=🛑 全球拦截
+01:03:36 INF [Config] initial compatible provider name=📲 电报信息
+01:03:36 INF [Config] initial compatible provider name=♻️ 自动选择
+01:03:36 INF [Config] initial compatible provider name=🎯 全球直连
+01:03:36 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+01:03:36 INF [Config] initial compatible provider name=🍎 苹果服务
+01:03:36 INF [Config] initial compatible provider name=🌍 国外媒体
+01:03:36 INF [Config] initial compatible provider name=🚀 手动切换
+01:03:36 INF [Config] initial compatible provider name=🚀 节点选择
+01:03:36 INF [Config] initial compatible provider name=🐟 漏网之鱼
+01:03:36 INF [Config] initial compatible provider name=🍃 应用净化
+01:03:57 INF [TCP] connected lAddr=127.0.0.1:57738 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+01:04:03 INF [TCP] connected lAddr=127.0.0.1:57754 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+01:08:26 INF [TCP] connected lAddr=127.0.0.1:53646 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+01:08:29 INF [TCP] connected lAddr=127.0.0.1:53654 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]

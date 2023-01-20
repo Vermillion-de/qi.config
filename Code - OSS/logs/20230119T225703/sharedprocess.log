@@ -1,0 +1,7 @@
+2023-01-19 22:57:05.996 [info] Starting worker process with pid 11604 (type: fileWatcher, window: 1).
+2023-01-19 22:57:26.234 [info] Getting Manifest... pascalreitermann93.vscode-yaml-sort
+2023-01-19 22:57:26.505 [info] Installing extension: pascalreitermann93.vscode-yaml-sort
+2023-01-19 22:58:32.285 [info] Extracted extension to /home/chi/.vscode-oss/extensions/.33503d9e-4a77-42ff-84b3-710d8d825789: pascalreitermann93.vscode-yaml-sort
+2023-01-19 22:58:32.298 [info] Renamed to /home/chi/.vscode-oss/extensions/pascalreitermann93.vscode-yaml-sort-6.1.0-universal
+2023-01-19 22:58:32.300 [info] Extracting completed. pascalreitermann93.vscode-yaml-sort
+2023-01-19 22:58:32.306 [info] Extension installed successfully: pascalreitermann93.vscode-yaml-sort

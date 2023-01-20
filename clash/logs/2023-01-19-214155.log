@@ -1,0 +1,15 @@
+21:41:55 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+21:41:55 INF [API] listening addr=127.0.0.1:36081
+21:41:56 INF [Config] initial compatible provider name=🌍 国外媒体
+21:41:56 INF [Config] initial compatible provider name=🚀 手动切换
+21:41:56 INF [Config] initial compatible provider name=♻️ 自动选择
+21:41:56 INF [Config] initial compatible provider name=🎯 全球直连
+21:41:56 INF [Config] initial compatible provider name=🍃 应用净化
+21:41:56 INF [Config] initial compatible provider name=🛑 全球拦截
+21:41:56 INF [Config] initial compatible provider name=🐟 漏网之鱼
+21:41:56 INF [Config] initial compatible provider name=🚀 节点选择
+21:41:56 INF [Config] initial compatible provider name=🍎 苹果服务
+21:41:56 INF [Config] initial compatible provider name=📲 电报信息
+21:41:56 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+21:42:06 INF [TCP] connected lAddr=127.0.0.1:47294 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 01]
+21:44:16 INF [TCP] connected lAddr=127.0.0.1:43784 rAddr=mirrors.ustc.edu.cn:443 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]

@@ -1,0 +1,7 @@
+2023-01-20 01:52:06.202 [info] [perf] Render performance baseline is 32ms
+2023-01-20 01:52:32.271 [error] 无法读取文件'/home/chi/.config/i3status-rust/config.toml' (Error: 自以下时间未修改的文件:): Error: 无法读取文件'/home/chi/.config/i3status-rust/config.toml' (Error: 自以下时间未修改的文件:)
+    at h.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16493)
+    at async v.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2489:34436)
+    at async v.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2489:34131)
+    at async Ms.Ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2478:54188)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2489:30190

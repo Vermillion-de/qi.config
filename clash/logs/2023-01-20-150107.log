@@ -1,0 +1,67 @@
+15:01:07 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+15:01:07 INF [API] listening addr=127.0.0.1:34127
+15:01:08 WRN [TCP] dial failed error=dial tcp4 0.0.0.0:443: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:42688 rAddr=raw.githubusercontent.com:443
+15:01:08 WRN [TCP] dial failed error=dial tcp4 0.0.0.0:443: connect: connection refused proxy=DIRECT lAddr=127.0.0.1:42706 rAddr=raw.githubusercontent.com:443
+15:01:08 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:42696 rAddr=api.github.com:443 proxy=DIRECT
+15:01:08 INF [Config] initial compatible provider name=🍃 应用净化
+15:01:08 INF [Config] initial compatible provider name=📲 电报信息
+15:01:08 INF [Config] initial compatible provider name=🚀 节点选择
+15:01:08 INF [Config] initial compatible provider name=♻️ 自动选择
+15:01:08 INF [Config] initial compatible provider name=🎯 全球直连
+15:01:08 INF [Config] initial compatible provider name=🍎 苹果服务
+15:01:08 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+15:01:08 INF [Config] initial compatible provider name=🌍 国外媒体
+15:01:08 INF [Config] initial compatible provider name=🐟 漏网之鱼
+15:01:08 INF [Config] initial compatible provider name=🛑 全球拦截
+15:01:08 INF [Config] initial compatible provider name=🚀 手动切换
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54650 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54790 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54656 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54700 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54666 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54678 rAddr=services.addons.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54714 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54744 rAddr=github.githubassets.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54792 rAddr=raw.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54778 rAddr=github.githubassets.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54686 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54730 rAddr=wiki.archlinuxcn.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:17 INF [TCP] connected lAddr=127.0.0.1:54808 rAddr=52.39.110.92:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54874 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54926 rAddr=api.github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54904 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54914 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54810 rAddr=github.githubassets.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54724 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54896 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=🚀 节点选择[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54852 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54822 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54834 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54942 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54832 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54836 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54868 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54972 rAddr=140.82.113.26:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54956 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:18 INF [TCP] connected lAddr=127.0.0.1:54978 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:01:19 INF [TCP] connected lAddr=127.0.0.1:54990 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:19 INF [TCP] connected lAddr=127.0.0.1:55000 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55012 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55028 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55032 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55036 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55050 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55054 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:20 INF [TCP] connected lAddr=127.0.0.1:55062 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46194 rAddr=adservice.google.com:443 mode=rule rule=DomainKeyword(adservice) proxy=🛑 全球拦截[REJECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46212 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46222 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46226 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46238 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46236 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:01:22 INF [TCP] connected lAddr=127.0.0.1:46176 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:01:23 INF [TCP] connected lAddr=127.0.0.1:46196 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:01:23 INF [TCP] connected lAddr=127.0.0.1:46284 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:01:23 INF [TCP] connected lAddr=127.0.0.1:46252 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:01:23 INF [TCP] connected lAddr=127.0.0.1:46260 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:01:23 INF [TCP] connected lAddr=127.0.0.1:46276 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]

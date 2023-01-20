@@ -1,0 +1,33 @@
+[Trace 03:20:53.361] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:20:53.362] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:20:53.363] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:20:53.364] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:20:53.395] DocumentSymbolProvider: provideDocumentSymbols — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Debug 03:20:53.395] LinkProvider: compute - file:///home/chi/git_proj/CoupletAI/README.md
+[Debug 03:20:53.452] TableOfContentsProvider: create - file:///home/chi/git_proj/CoupletAI/README.md
+[Debug 03:20:53.584] MdFoldingProvider: provideFoldingRanges — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Trace 03:20:54.851] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:23:01.724] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:18.965] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:18.965] VsCodeClientWorkspace: deleteDocument: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:24.022] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:24.022] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:24.075] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:24.075] DocumentSymbolProvider: provideDocumentSymbols — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Debug 03:24:24.076] LinkProvider: compute - file:///home/chi/git_proj/CoupletAI/README.md
+[Debug 03:24:24.079] TableOfContentsProvider: create - file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:24:24.094] DocumentSymbolProvider: provideDocumentSymbols — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Debug 03:24:24.246] MdFoldingProvider: provideFoldingRanges — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Trace 03:27:24.023] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:24.023] VsCodeClientWorkspace: deleteDocument: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.561] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.618] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.618] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.618] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.618] DocumentSymbolProvider: provideDocumentSymbols — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Debug 03:27:47.618] LinkProvider: compute - file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:47.623] Server: connection.languages.diagnostics.on: file:///home/chi/git_proj/CoupletAI/README.md
+[Debug 03:27:47.627] TableOfContentsProvider: create - file:///home/chi/git_proj/CoupletAI/README.md
+[Debug 03:27:47.789] MdFoldingProvider: provideFoldingRanges — file:///home/chi/git_proj/CoupletAI/README.md 1
+[Trace 03:27:56.237] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/chi/git_proj/CoupletAI/README.md
+[Trace 03:27:56.237] VsCodeClientWorkspace: deleteDocument: file:///home/chi/git_proj/CoupletAI/README.md

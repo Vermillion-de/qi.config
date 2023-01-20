@@ -1,0 +1,3 @@
+2023-01-19 22:57:04.899 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/chi/.config/i3status-rust/config.toml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-19 22:57:08.385 [info] [perf] Render performance baseline is 61ms
+2023-01-19 22:57:15.436 [error] Error while registering log channel file:///home/chi/.config/Code%20-%20OSS/logs/20230119T225703/userDataSync.log Timed out while waiting for file to be created

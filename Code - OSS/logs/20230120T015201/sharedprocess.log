@@ -1,0 +1,7 @@
+2023-01-20 01:52:03.801 [info] Starting worker process with pid 38711 (type: fileWatcher, window: 1).
+2023-01-20 01:52:17.181 [info] Getting Manifest... johnpapa.winteriscoming
+2023-01-20 01:52:17.534 [info] Installing extension: johnpapa.winteriscoming
+2023-01-20 01:52:32.803 [info] Extracted extension to /home/chi/.vscode-oss/extensions/.602e448d-2a60-4569-a162-16913e6a20a5: johnpapa.winteriscoming
+2023-01-20 01:52:32.809 [info] Renamed to /home/chi/.vscode-oss/extensions/johnpapa.winteriscoming-1.4.4-universal
+2023-01-20 01:52:32.810 [info] Extracting completed. johnpapa.winteriscoming
+2023-01-20 01:52:32.817 [info] Extension installed successfully: johnpapa.winteriscoming

@@ -1,0 +1,9 @@
+2023-01-20 01:52:03.786 [info] 日志级别: Info
+2023-01-20 01:52:03.786 [info] 正在验证在以下位置找到的 git: "git"
+2023-01-20 01:52:03.786 [info] 将使用位于 "2.39.1" 的 Git "git"
+2023-01-20 01:52:03.786 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-20 01:52:03.786 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-20 01:52:22.423 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-20 01:52:22.423 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
