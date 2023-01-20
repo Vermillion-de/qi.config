@@ -1,0 +1,13 @@
+17:43:21 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+17:43:21 INF [API] listening addr=127.0.0.1:35975
+17:43:21 INF [Config] initial compatible provider name=🚀 手动切换
+17:43:21 INF [Config] initial compatible provider name=♻️ 自动选择
+17:43:21 INF [Config] initial compatible provider name=🚀 节点选择
+17:43:21 INF [Config] initial compatible provider name=🎯 全球直连
+17:43:21 INF [Config] initial compatible provider name=🍎 苹果服务
+17:43:21 INF [Config] initial compatible provider name=📲 电报信息
+17:43:21 INF [Config] initial compatible provider name=🐟 漏网之鱼
+17:43:21 INF [Config] initial compatible provider name=🍃 应用净化
+17:43:21 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+17:43:21 INF [Config] initial compatible provider name=🌍 国外媒体
+17:43:21 INF [Config] initial compatible provider name=🛑 全球拦截

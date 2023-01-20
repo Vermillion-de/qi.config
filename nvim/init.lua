@@ -1,3 +1,6 @@
+kss/vim-floaterm')
+vim.call('plug#end')
+
 require "user.options"
 require "user.keymaps"
 require "user.plugins"
@@ -19,9 +22,4 @@ require "user.indentline"
 require "user.alpha"
 require "user.whichkey"
 require "user.autocommands"
-
-local Plug = vim.fn['plug#']
-vim.call('plug#begin', '~/.config/nvim/plugged')
-Plug ('neoclide/coc.nvim', {branch='release'})
-vim.call('plug#end')
 

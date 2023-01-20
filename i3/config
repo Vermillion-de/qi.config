@@ -18,7 +18,7 @@ font pango:monospace 8
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
-exec_always feh --bg-scale ./wallpaper/bg_3.jpg
+exec_always feh --bg-scale $HOME/.config/i3/wallpaper/bg_3.jpg
 exec_always source ~/.chirc
 exec_always compton
 exec_always xborders -c ~/.config/xborders/config.json

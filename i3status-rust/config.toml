@@ -21,7 +21,7 @@ format = "{ssid}  {speed_up} {speed_down}"
 [[block]]
 block = "time"
 interval = 5
-format = "%R %a %m-%d-%y "
+format = "%R %a %m-%d-%y"
 
 
 [[block]]
