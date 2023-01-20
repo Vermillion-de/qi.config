@@ -1,6 +1,8 @@
 lastupdatecheck: 0
 recentrepos:
+- /home/chi/.config
 - /home/chi/.oh-my-zsh
 startuppopupversion: 5
-customcommandshistory: []
+customcommandshistory:
+- revocery
 hidecommandlog: false

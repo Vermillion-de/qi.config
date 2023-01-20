@@ -1,4 +1,8 @@
-kss/vim-floaterm')
+local Plug = vim.fn['plug#']
+vim.call('plug#begin', '~/.config/nvim/plugged')
+  Plug ('neoclide/coc.nvim', {branch='release'})
+  Plug ('sainnhe/sonokai')
+  Plug ('voldikss/vim-floaterm')
 vim.call('plug#end')
 
 require "user.options"
