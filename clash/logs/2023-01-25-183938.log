@@ -1020,3 +1020,79 @@
 19:55:54 INF [TCP] connected lAddr=127.0.0.1:33334 rAddr=scontent.cdninstagram.com:443 mode=rule rule=DomainKeyword(instagram) proxy=🚀 节点选择[香港 02]
 19:55:54 INF [TCP] connected lAddr=127.0.0.1:33344 rAddr=scontent.cdninstagram.com:443 mode=rule rule=DomainKeyword(instagram) proxy=🚀 节点选择[香港 02]
 19:56:35 INF [TCP] connected lAddr=127.0.0.1:48650 rAddr=202.160.130.117:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+19:57:38 INF [TCP] connected lAddr=127.0.0.1:33132 rAddr=202.160.130.117:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+19:58:43 INF [TCP] connected lAddr=127.0.0.1:38878 rAddr=202.160.130.117:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+19:59:27 INF [TCP] connected lAddr=127.0.0.1:44510 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+19:59:46 INF [TCP] connected lAddr=127.0.0.1:50592 rAddr=202.160.130.117:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:00:50 INF [TCP] connected lAddr=127.0.0.1:50348 rAddr=199.59.149.204:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:00:51 INF [TCP] connected lAddr=127.0.0.1:50356 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:00:51 INF [TCP] connected lAddr=127.0.0.1:51444 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:00:52 INF [TCP] connected lAddr=127.0.0.1:51464 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:00:55 INF [TCP] connected lAddr=127.0.0.1:51456 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:38 INF [TCP] connected lAddr=127.0.0.1:45622 rAddr=instagram.fhkg4-1.fna.fbcdn.net:443 mode=rule rule=DomainKeyword(fbcdn) proxy=🚀 节点选择[香港 02]
+20:01:39 INF [TCP] connected lAddr=127.0.0.1:45646 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47160 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47126 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47140 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47116 rAddr=services.addons.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47122 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47136 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47146 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47176 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47190 rAddr=54.148.238.232:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47196 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47202 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47208 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47224 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:56 INF [TCP] connected lAddr=127.0.0.1:47220 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47246 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47236 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47232 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47276 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47266 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47262 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47290 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47298 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:01:57 INF [TCP] connected lAddr=127.0.0.1:47280 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:02:55 INF [TCP] connected lAddr=127.0.0.1:33730 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:02:58 INF [TCP] connected lAddr=127.0.0.1:33738 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:02:58 INF [TCP] connected lAddr=127.0.0.1:33736 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:26 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:34342 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+20:04:26 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:34326 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+20:04:27 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:34364 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+20:04:27 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:34352 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+20:04:27 INF [Config] initial compatible provider name=📲 电报信息
+20:04:27 INF [Config] initial compatible provider name=🍎 苹果服务
+20:04:27 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+20:04:27 INF [Config] initial compatible provider name=🚀 节点选择
+20:04:27 INF [Config] initial compatible provider name=♻️ 自动选择
+20:04:27 INF [Config] initial compatible provider name=🎯 全球直连
+20:04:27 INF [Config] initial compatible provider name=🐟 漏网之鱼
+20:04:27 INF [Config] initial compatible provider name=🌍 国外媒体
+20:04:27 INF [Config] initial compatible provider name=🍃 应用净化
+20:04:27 INF [Config] initial compatible provider name=🛑 全球拦截
+20:04:27 INF [Config] initial compatible provider name=🚀 手动切换
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34402 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34414 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34388 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34368 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34372 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34430 rAddr=35.81.36.195:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34436 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:29 INF [TCP] connected lAddr=127.0.0.1:34440 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:30 INF [TCP] connected lAddr=127.0.0.1:34474 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:30 INF [TCP] connected lAddr=127.0.0.1:34468 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:30 INF [TCP] connected lAddr=127.0.0.1:34452 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:30 INF [TCP] connected lAddr=127.0.0.1:34486 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:30 INF [TCP] connected lAddr=127.0.0.1:34490 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:34 INF [TCP] connected lAddr=127.0.0.1:40060 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:34 INF [TCP] connected lAddr=127.0.0.1:40050 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:34 INF [TCP] connected lAddr=127.0.0.1:40038 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:35 INF [TCP] connected lAddr=127.0.0.1:40068 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:04:35 INF [TCP] connected lAddr=127.0.0.1:40084 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:07:27 INF [TCP] connected lAddr=127.0.0.1:58216 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:17:52 INF [TCP] connected lAddr=127.0.0.1:42500 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=DomainSuffix(safebrowsing.googleapis.com) proxy=🎯 全球直连[DIRECT]
+20:17:52 INF [TCP] connected lAddr=127.0.0.1:42506 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+20:22:26 INF [TCP] connected lAddr=127.0.0.1:37676 rAddr=contile.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:25:05 INF [TCP] connected lAddr=127.0.0.1:58136 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+20:25:09 INF [TCP] connected lAddr=127.0.0.1:58146 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
