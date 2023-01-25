@@ -1,0 +1,161 @@
+15:45:46 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+15:45:46 INF [API] listening addr=127.0.0.1:41991
+15:45:46 INF [Config] initial compatible provider name=🌍 国外媒体
+15:45:46 INF [Config] initial compatible provider name=🚀 手动切换
+15:45:46 INF [Config] initial compatible provider name=♻️ 自动选择
+15:45:46 INF [Config] initial compatible provider name=🍎 苹果服务
+15:45:46 INF [Config] initial compatible provider name=🛑 全球拦截
+15:45:46 INF [Config] initial compatible provider name=📲 电报信息
+15:45:46 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+15:45:46 INF [Config] initial compatible provider name=🐟 漏网之鱼
+15:45:46 INF [Config] initial compatible provider name=🚀 节点选择
+15:45:46 INF [Config] initial compatible provider name=🎯 全球直连
+15:45:46 INF [Config] initial compatible provider name=🍃 应用净化
+15:45:48 INF [TCP] connected lAddr=127.0.0.1:38782 rAddr=44.227.109.32:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:45:49 INF [TCP] connected lAddr=127.0.0.1:38792 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:45:50 INF [TCP] connected lAddr=127.0.0.1:38808 rAddr=drive.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:50 INF [TCP] connected lAddr=127.0.0.1:38816 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38818 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(fonts.googleapis.com) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38832 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(www.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38854 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=DomainSuffix(safebrowsing.googleapis.com) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38860 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38874 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:45:51 INF [TCP] connected lAddr=127.0.0.1:38880 rAddr=firefox.settings.services.mozilla.com:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:45:52 INF [TCP] connected lAddr=127.0.0.1:38910 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:52 INF [TCP] connected lAddr=127.0.0.1:38926 rAddr=play.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:52 INF [Config] initial compatible provider name=🚀 手动切换
+15:45:52 INF [Config] initial compatible provider name=♻️ 自动选择
+15:45:52 INF [Config] initial compatible provider name=🚀 节点选择
+15:45:52 INF [Config] initial compatible provider name=🌍 国外媒体
+15:45:52 INF [Config] initial compatible provider name=🍎 苹果服务
+15:45:52 INF [Config] initial compatible provider name=🛑 全球拦截
+15:45:52 INF [Config] initial compatible provider name=🎯 全球直连
+15:45:52 INF [Config] initial compatible provider name=🐟 漏网之鱼
+15:45:52 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+15:45:52 INF [Config] initial compatible provider name=📲 电报信息
+15:45:52 INF [Config] initial compatible provider name=🍃 应用净化
+15:45:53 INF [TCP] connected lAddr=127.0.0.1:38912 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(ssl.gstatic.com) proxy=🎯 全球直连[DIRECT]
+15:45:53 INF [TCP] connected lAddr=127.0.0.1:38940 rAddr=r3.o.lencr.org:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:45:53 INF [TCP] connected lAddr=127.0.0.1:38952 rAddr=content.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:53 INF [TCP] connected lAddr=127.0.0.1:38974 rAddr=blobcomments-pa.clients6.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:54 INF [TCP] connected lAddr=127.0.0.1:38984 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:45:54 INF [TCP] connected lAddr=127.0.0.1:38990 rAddr=ocsp.pki.goog:80 mode=rule rule=DomainSuffix(ocsp.pki.goog) proxy=🎯 全球直连[DIRECT]
+15:45:54 INF [TCP] connected lAddr=127.0.0.1:38898 rAddr=apis.google.com:443 mode=rule rule=DomainKeyword(google) proxy=🚀 节点选择[香港 02]
+15:45:55 INF [TCP] connected lAddr=127.0.0.1:39018 rAddr=incoming.telemetry.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:45:58 INF [TCP] connected lAddr=127.0.0.1:41428 rAddr=zhuanlan.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:45:58 INF [TCP] connected lAddr=127.0.0.1:41544 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+15:45:58 INF [TCP] connected lAddr=127.0.0.1:41554 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+15:45:58 INF [TCP] connected lAddr=127.0.0.1:41572 rAddr=sugar.zhihu.com:443 mode=rule rule=DomainSuffix(sugar.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:58 INF [TCP] connected lAddr=127.0.0.1:41558 rAddr=zz.bdstatic.com:443 mode=rule rule=DomainSuffix(zz.bdstatic.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41674 rAddr=118.89.204.198:443 mode=rule rule=GeoIP(CN) proxy=🎯 全球直连[DIRECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41714 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41744 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41728 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41756 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41768 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:45:59 INF [TCP] connected lAddr=127.0.0.1:41774 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41542 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41444 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41586 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41826 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41618 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41808 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41460 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41466 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41508 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41788 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41672 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41640 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41602 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41656 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41632 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41684 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41700 rAddr=datahub.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41812 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41792 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41850 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41834 rAddr=service.govwza.cn:443 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41860 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41600 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41886 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41870 rAddr=ocsp.dcocsp.cn:80 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41894 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:00 INF [TCP] connected lAddr=127.0.0.1:41914 rAddr=ocsp.trust-provider.cn:80 mode=rule rule=DomainSuffix(cn) proxy=🎯 全球直连[DIRECT]
+15:46:01 INF [TCP] connected lAddr=127.0.0.1:41930 rAddr=pic4.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:01 INF [TCP] connected lAddr=127.0.0.1:41932 rAddr=pic4.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:41976 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:41982 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:41980 rAddr=apm.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:42000 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:41994 rAddr=apm.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:42016 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:42022 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:05 INF [TCP] connected lAddr=127.0.0.1:42032 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:06 INF [TCP] connected lAddr=127.0.0.1:54854 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:06 INF [TCP] connected lAddr=127.0.0.1:54870 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:31 INF [TCP] connected lAddr=127.0.0.1:45960 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:32 INF [TCP] connected lAddr=127.0.0.1:45962 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:46:33 INF [TCP] connected lAddr=127.0.0.1:45994 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:46:33 INF [TCP] connected lAddr=127.0.0.1:45980 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:46:33 INF [TCP] connected lAddr=127.0.0.1:45968 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:46:53 INF [TCP] connected lAddr=127.0.0.1:55000 rAddr=aus5.mozilla.org:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:46:54 INF [TCP] connected lAddr=127.0.0.1:55010 rAddr=ocsp.digicert.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:46:54 INF [TCP] connected lAddr=127.0.0.1:55022 rAddr=content-signature-2.cdn.mozilla.net:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+15:53:23 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37930 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:23 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37936 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:23 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37946 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:23 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37954 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:24 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37968 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:24 WRN [TCP] dial failed error=pss.bdstatic.com.eejsq.xyz:31039 connect error: lookup pss.bdstatic.com.eejsq.xyz on 8.8.8.8:53: dial udp 8.8.8.8:53: connect: network is unreachable proxy=🐟 漏网之鱼 lAddr=127.0.0.1:37974 rAddr=detectportal.firefox.com:80 rule=Match rulePayload=
+15:53:24 INF [Config] initial compatible provider name=🍃 应用净化
+15:53:24 INF [Config] initial compatible provider name=🚀 节点选择
+15:53:24 INF [Config] initial compatible provider name=📲 电报信息
+15:53:24 INF [Config] initial compatible provider name=🛑 全球拦截
+15:53:24 INF [Config] initial compatible provider name=🍎 苹果服务
+15:53:24 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+15:53:24 INF [Config] initial compatible provider name=🌍 国外媒体
+15:53:24 INF [Config] initial compatible provider name=🚀 手动切换
+15:53:24 INF [Config] initial compatible provider name=♻️ 自动选择
+15:53:24 INF [Config] initial compatible provider name=🎯 全球直连
+15:53:24 INF [Config] initial compatible provider name=🐟 漏网之鱼
+15:53:26 INF [TCP] connected lAddr=127.0.0.1:37988 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:26 INF [TCP] connected lAddr=127.0.0.1:38006 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:26 INF [TCP] connected lAddr=127.0.0.1:38016 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:26 INF [TCP] connected lAddr=127.0.0.1:38000 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:26 INF [TCP] connected lAddr=127.0.0.1:38032 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:28 INF [TCP] connected lAddr=127.0.0.1:36724 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:28 INF [TCP] connected lAddr=127.0.0.1:36734 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:29 INF [TCP] connected lAddr=127.0.0.1:36736 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:31 INF [TCP] connected lAddr=127.0.0.1:36752 rAddr=44.227.71.100:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:36 INF [TCP] connected lAddr=127.0.0.1:36774 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:36 INF [TCP] connected lAddr=127.0.0.1:36754 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:36 INF [TCP] connected lAddr=127.0.0.1:36758 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:38 INF [TCP] connected lAddr=127.0.0.1:36788 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:38 INF [TCP] connected lAddr=127.0.0.1:41228 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:53:38 INF [TCP] connected lAddr=127.0.0.1:41216 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=🎯 全球直连[DIRECT]
+15:53:39 INF [TCP] connected lAddr=127.0.0.1:41250 rAddr=pica.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:53:39 INF [TCP] connected lAddr=127.0.0.1:41244 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:53:39 INF [TCP] connected lAddr=127.0.0.1:41260 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=🎯 全球直连[DIRECT]
+15:53:42 INF [TCP] connected lAddr=127.0.0.1:41276 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:45 INF [TCP] connected lAddr=127.0.0.1:41284 rAddr=34.213.53.184:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:53:45 INF [TCP] connected lAddr=127.0.0.1:41298 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:08 INF [TCP] connected lAddr=127.0.0.1:39936 rAddr=34.213.53.184:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:32 INF [TCP] connected lAddr=127.0.0.1:50114 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:35 INF [TCP] connected lAddr=127.0.0.1:50116 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:54:36 INF [TCP] connected lAddr=127.0.0.1:50140 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:54:36 INF [TCP] connected lAddr=127.0.0.1:50130 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:38 INF [TCP] connected lAddr=127.0.0.1:38712 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:54:39 INF [TCP] connected lAddr=127.0.0.1:38718 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:42 INF [TCP] connected lAddr=127.0.0.1:38728 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:46 INF [TCP] connected lAddr=127.0.0.1:38738 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:49 INF [TCP] connected lAddr=127.0.0.1:58166 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:54:51 INF [TCP] connected lAddr=127.0.0.1:58176 rAddr=34.217.157.108:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:29 INF [TCP] connected lAddr=127.0.0.1:60100 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:55:29 INF [TCP] connected lAddr=127.0.0.1:60106 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:55:33 INF [TCP] connected lAddr=127.0.0.1:60120 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu-web-analytics.zhihu.com) proxy=🍃 应用净化[REJECT]
+15:55:34 INF [TCP] connected lAddr=127.0.0.1:60108 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:37 INF [TCP] connected lAddr=127.0.0.1:60122 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:41 INF [TCP] connected lAddr=127.0.0.1:43200 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:44 INF [TCP] connected lAddr=127.0.0.1:43206 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:48 INF [TCP] connected lAddr=127.0.0.1:35272 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]
+15:55:51 INF [TCP] connected lAddr=127.0.0.1:35288 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 01]

@@ -1,0 +1,942 @@
+12:16:42 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+12:16:42 INF [API] listening addr=127.0.0.1:43733
+12:16:42 INF [Config] initial compatible provider name=🍎 苹果服务
+12:16:42 INF [Config] initial compatible provider name=🌍 国外媒体
+12:16:42 INF [Config] initial compatible provider name=🚀 手动切换
+12:16:42 INF [Config] initial compatible provider name=🚀 节点选择
+12:16:42 INF [Config] initial compatible provider name=🍃 应用净化
+12:16:42 INF [Config] initial compatible provider name=📲 电报信息
+12:16:42 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+12:16:42 INF [Config] initial compatible provider name=🐟 漏网之鱼
+12:16:42 INF [Config] initial compatible provider name=♻️ 自动选择
+12:16:42 INF [Config] initial compatible provider name=🎯 全球直连
+12:16:42 INF [Config] initial compatible provider name=🛑 全球拦截
+12:16:50 INF [TCP] connected lAddr=127.0.0.1:58282 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:05 INF [TCP] connected lAddr=127.0.0.1:40164 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:06 INF [TCP] connected lAddr=127.0.0.1:40166 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:07 INF [TCP] connected lAddr=127.0.0.1:40172 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:09 INF [TCP] connected lAddr=127.0.0.1:40182 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:09 INF [TCP] connected lAddr=127.0.0.1:40198 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:10 INF [TCP] connected lAddr=127.0.0.1:40212 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:10 INF [TCP] connected lAddr=127.0.0.1:40226 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:11 INF [TCP] connected lAddr=127.0.0.1:40238 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:12 INF [TCP] connected lAddr=127.0.0.1:40246 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:13 INF [TCP] connected lAddr=127.0.0.1:40250 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:13 INF [TCP] connected lAddr=127.0.0.1:40252 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:14 INF [TCP] connected lAddr=127.0.0.1:40262 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:14 INF [TCP] connected lAddr=127.0.0.1:40270 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:15 INF [TCP] connected lAddr=127.0.0.1:37226 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:15 INF [TCP] connected lAddr=127.0.0.1:37232 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:17 INF [TCP] connected lAddr=127.0.0.1:37238 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:18 INF [TCP] connected lAddr=127.0.0.1:37244 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:18 INF [TCP] connected lAddr=127.0.0.1:37258 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:19 INF [TCP] connected lAddr=127.0.0.1:37268 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:20 INF [TCP] connected lAddr=127.0.0.1:37274 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:20 INF [TCP] connected lAddr=127.0.0.1:37288 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:22 INF [TCP] connected lAddr=127.0.0.1:37298 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:23 INF [TCP] connected lAddr=127.0.0.1:37308 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:24 INF [TCP] connected lAddr=127.0.0.1:37318 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:24 INF [TCP] connected lAddr=127.0.0.1:37320 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:25 INF [TCP] connected lAddr=127.0.0.1:37328 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:26 INF [TCP] connected lAddr=127.0.0.1:56668 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:26 INF [TCP] connected lAddr=127.0.0.1:56684 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:27 INF [TCP] connected lAddr=127.0.0.1:56696 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:28 INF [TCP] connected lAddr=127.0.0.1:56712 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:29 INF [TCP] connected lAddr=127.0.0.1:56714 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:29 INF [TCP] connected lAddr=127.0.0.1:56730 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:30 INF [TCP] connected lAddr=127.0.0.1:56732 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:30 INF [TCP] connected lAddr=127.0.0.1:56740 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:34 INF [TCP] connected lAddr=127.0.0.1:56746 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:35 INF [TCP] connected lAddr=127.0.0.1:56756 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:36 INF [TCP] connected lAddr=127.0.0.1:43354 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:37 INF [TCP] connected lAddr=127.0.0.1:43366 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:38 INF [TCP] connected lAddr=127.0.0.1:43370 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:38 INF [TCP] connected lAddr=127.0.0.1:43384 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:39 INF [TCP] connected lAddr=127.0.0.1:43386 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:40 INF [TCP] connected lAddr=127.0.0.1:43392 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:40 INF [TCP] connected lAddr=127.0.0.1:43406 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:42 INF [TCP] connected lAddr=127.0.0.1:43414 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:43 INF [TCP] connected lAddr=127.0.0.1:43416 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:46 INF [TCP] connected lAddr=127.0.0.1:33296 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:46 INF [TCP] connected lAddr=127.0.0.1:33304 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:47 INF [TCP] connected lAddr=127.0.0.1:33316 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:47 INF [TCP] connected lAddr=127.0.0.1:33326 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:48 INF [TCP] connected lAddr=127.0.0.1:33338 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:17:49 INF [TCP] connected lAddr=127.0.0.1:33340 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[台湾]
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:09 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:10 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:11 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:12 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:13 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:14 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:15 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:16 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:17 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:18 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:19 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:20 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:21 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:22 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:23 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:24 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:25 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:26 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:27 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:28 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:29 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:30 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:31 WRN [Metadata] parse failed error=script not found
+12:18:59 INF [TCP] connected lAddr=127.0.0.1:38394 rAddr=www.youtube.com:443 mode=global
+12:19:00 INF [TCP] connected lAddr=127.0.0.1:38408 rAddr=www.youtube.com:443 mode=global
+12:19:01 INF [TCP] connected lAddr=127.0.0.1:38418 rAddr=www.youtube.com:443 mode=global
+12:19:01 INF [TCP] connected lAddr=127.0.0.1:38428 rAddr=www.youtube.com:443 mode=global
+12:19:02 INF [TCP] connected lAddr=127.0.0.1:38442 rAddr=www.youtube.com:443 mode=global
+12:19:02 INF [TCP] connected lAddr=127.0.0.1:38450 rAddr=www.youtube.com:443 mode=global
+12:19:05 INF [TCP] connected lAddr=127.0.0.1:38452 rAddr=www.youtube.com:443 mode=global
+12:19:05 INF [TCP] connected lAddr=127.0.0.1:59822 rAddr=www.youtube.com:443 mode=global
+12:19:26 INF [TCP] connected lAddr=127.0.0.1:38588 rAddr=www.youtube.com:443 mode=global
+12:19:27 INF [TCP] connected lAddr=127.0.0.1:38598 rAddr=www.youtube.com:443 mode=global
+12:19:27 INF [TCP] connected lAddr=127.0.0.1:38610 rAddr=www.youtube.com:443 mode=global
+12:19:30 INF [TCP] connected lAddr=127.0.0.1:38620 rAddr=www.youtube.com:443 mode=global
+12:19:31 INF [TCP] connected lAddr=127.0.0.1:38630 rAddr=www.youtube.com:443 mode=global
+12:19:31 INF [TCP] connected lAddr=127.0.0.1:38634 rAddr=www.youtube.com:443 mode=global
+12:19:32 INF [TCP] connected lAddr=127.0.0.1:38646 rAddr=www.youtube.com:443 mode=global
+12:19:33 INF [TCP] connected lAddr=127.0.0.1:38652 rAddr=www.youtube.com:443 mode=global
+12:19:34 INF [TCP] connected lAddr=127.0.0.1:38666 rAddr=www.youtube.com:443 mode=global
+12:19:34 INF [TCP] connected lAddr=127.0.0.1:38668 rAddr=www.youtube.com:443 mode=global
+12:19:34 INF [TCP] connected lAddr=127.0.0.1:38676 rAddr=www.youtube.com:443 mode=global
+12:19:35 INF [TCP] connected lAddr=127.0.0.1:52892 rAddr=www.youtube.com:443 mode=global
+12:19:36 INF [TCP] connected lAddr=127.0.0.1:52894 rAddr=www.youtube.com:443 mode=global
+12:19:36 INF [TCP] connected lAddr=127.0.0.1:52902 rAddr=www.youtube.com:443 mode=global
+12:19:36 INF [TCP] connected lAddr=127.0.0.1:52908 rAddr=www.youtube.com:443 mode=global
+12:19:37 INF [TCP] connected lAddr=127.0.0.1:52918 rAddr=www.youtube.com:443 mode=global
+12:19:38 INF [TCP] connected lAddr=127.0.0.1:52920 rAddr=www.youtube.com:443 mode=global
+12:19:40 INF [TCP] connected lAddr=127.0.0.1:52922 rAddr=www.youtube.com:443 mode=global
+12:19:40 INF [TCP] connected lAddr=127.0.0.1:52926 rAddr=www.youtube.com:443 mode=global
+12:19:41 INF [TCP] connected lAddr=127.0.0.1:52940 rAddr=www.youtube.com:443 mode=global
+12:19:41 INF [TCP] connected lAddr=127.0.0.1:52944 rAddr=www.youtube.com:443 mode=global
+12:19:42 INF [TCP] connected lAddr=127.0.0.1:52952 rAddr=www.youtube.com:443 mode=global
+12:19:42 INF [TCP] connected lAddr=127.0.0.1:52956 rAddr=www.youtube.com:443 mode=global
+12:19:43 INF [TCP] connected lAddr=127.0.0.1:52958 rAddr=www.youtube.com:443 mode=global
+12:19:44 INF [TCP] connected lAddr=127.0.0.1:52972 rAddr=www.youtube.com:443 mode=global
+12:19:45 INF [TCP] connected lAddr=127.0.0.1:55302 rAddr=www.youtube.com:443 mode=global
+12:19:45 INF [TCP] connected lAddr=127.0.0.1:55316 rAddr=www.youtube.com:443 mode=global
+12:19:46 INF [TCP] connected lAddr=127.0.0.1:55332 rAddr=www.youtube.com:443 mode=global
+12:19:47 INF [TCP] connected lAddr=127.0.0.1:55338 rAddr=www.youtube.com:443 mode=global
+12:19:47 INF [TCP] connected lAddr=127.0.0.1:55342 rAddr=www.youtube.com:443 mode=global
+12:19:47 INF [TCP] connected lAddr=127.0.0.1:55352 rAddr=www.youtube.com:443 mode=global
+12:19:49 INF [TCP] connected lAddr=127.0.0.1:55362 rAddr=www.youtube.com:443 mode=global
+12:19:49 INF [TCP] connected lAddr=127.0.0.1:55376 rAddr=www.youtube.com:443 mode=global
+12:19:50 INF [TCP] connected lAddr=127.0.0.1:55386 rAddr=www.youtube.com:443 mode=global
+12:19:52 INF [TCP] connected lAddr=127.0.0.1:55402 rAddr=www.youtube.com:443 mode=global
+12:19:52 INF [TCP] connected lAddr=127.0.0.1:55408 rAddr=www.youtube.com:443 mode=global
+12:19:53 INF [TCP] connected lAddr=127.0.0.1:55422 rAddr=www.youtube.com:443 mode=global
+12:19:53 INF [TCP] connected lAddr=127.0.0.1:55432 rAddr=www.youtube.com:443 mode=global
+12:20:24 INF [TCP] connected lAddr=127.0.0.1:49582 rAddr=www.youtube.com:443 mode=global
+12:20:25 INF [TCP] connected lAddr=127.0.0.1:39450 rAddr=www.youtube.com:443 mode=global
+12:20:25 INF [TCP] connected lAddr=127.0.0.1:39466 rAddr=www.youtube.com:443 mode=global
+12:20:26 INF [TCP] connected lAddr=127.0.0.1:39474 rAddr=www.youtube.com:443 mode=global
+12:20:26 INF [TCP] connected lAddr=127.0.0.1:39486 rAddr=www.youtube.com:443 mode=global
+12:20:27 INF [TCP] connected lAddr=127.0.0.1:39502 rAddr=www.youtube.com:443 mode=global
+12:20:27 INF [TCP] connected lAddr=127.0.0.1:39506 rAddr=www.youtube.com:443 mode=global
+12:20:28 INF [TCP] connected lAddr=127.0.0.1:39522 rAddr=www.youtube.com:443 mode=global
+12:20:28 INF [TCP] connected lAddr=127.0.0.1:39528 rAddr=www.youtube.com:443 mode=global
+12:20:29 INF [TCP] connected lAddr=127.0.0.1:39542 rAddr=www.youtube.com:443 mode=global
+12:20:55 INF [TCP] connected lAddr=127.0.0.1:54564 rAddr=www.youtube.com:443 mode=global
+12:20:56 INF [TCP] connected lAddr=127.0.0.1:56396 rAddr=www.youtube.com:443 mode=global
+12:20:57 INF [TCP] connected lAddr=127.0.0.1:56406 rAddr=www.youtube.com:443 mode=global
+12:20:58 INF [TCP] connected lAddr=127.0.0.1:56422 rAddr=www.youtube.com:443 mode=global
+12:20:58 INF [TCP] connected lAddr=127.0.0.1:56434 rAddr=www.youtube.com:443 mode=global
+12:20:59 INF [TCP] connected lAddr=127.0.0.1:56438 rAddr=www.youtube.com:443 mode=global
+12:20:59 INF [TCP] connected lAddr=127.0.0.1:56452 rAddr=www.youtube.com:443 mode=global
+12:21:00 INF [TCP] connected lAddr=127.0.0.1:56462 rAddr=www.youtube.com:443 mode=global
+12:21:01 INF [TCP] connected lAddr=127.0.0.1:56464 rAddr=www.youtube.com:443 mode=global
+12:21:01 INF [TCP] connected lAddr=127.0.0.1:56480 rAddr=www.youtube.com:443 mode=global
+12:31:54 INF [TCP] connected lAddr=127.0.0.1:39480 rAddr=www.youtube.com:443 mode=global
+12:31:54 INF [TCP] connected lAddr=127.0.0.1:39496 rAddr=www.youtube.com:443 mode=global
+12:31:55 INF [TCP] connected lAddr=127.0.0.1:39512 rAddr=www.youtube.com:443 mode=global
+12:31:55 INF [TCP] connected lAddr=127.0.0.1:54774 rAddr=www.youtube.com:443 mode=global
+12:31:56 INF [TCP] connected lAddr=127.0.0.1:54790 rAddr=www.youtube.com:443 mode=global
+12:31:56 INF [TCP] connected lAddr=127.0.0.1:54798 rAddr=www.youtube.com:443 mode=global
+12:31:57 INF [TCP] connected lAddr=127.0.0.1:54806 rAddr=www.youtube.com:443 mode=global
+12:31:57 INF [TCP] connected lAddr=127.0.0.1:54820 rAddr=www.youtube.com:443 mode=global
+12:31:59 INF [TCP] connected lAddr=127.0.0.1:54826 rAddr=www.youtube.com:443 mode=global
+12:32:00 INF [TCP] connected lAddr=127.0.0.1:54834 rAddr=www.youtube.com:443 mode=global
+12:32:01 INF [TCP] connected lAddr=127.0.0.1:54848 rAddr=www.youtube.com:443 mode=global
+12:34:12 INF [TCP] connected lAddr=127.0.0.1:46974 rAddr=api.github.com:443 mode=global
+12:34:18 INF [TCP] connected lAddr=127.0.0.1:44256 rAddr=www.youtube.com:443 mode=global
+12:34:19 INF [TCP] connected lAddr=127.0.0.1:44264 rAddr=www.youtube.com:443 mode=global
+12:34:19 INF [TCP] connected lAddr=127.0.0.1:44280 rAddr=www.youtube.com:443 mode=global
+12:34:19 INF [TCP] connected lAddr=127.0.0.1:44282 rAddr=www.youtube.com:443 mode=global
+12:34:20 INF [TCP] connected lAddr=127.0.0.1:44296 rAddr=www.youtube.com:443 mode=global
+12:34:20 INF [TCP] connected lAddr=127.0.0.1:44306 rAddr=www.youtube.com:443 mode=global
+12:34:20 INF [TCP] connected lAddr=127.0.0.1:44308 rAddr=www.youtube.com:443 mode=global
+12:34:21 INF [TCP] connected lAddr=127.0.0.1:44310 rAddr=www.youtube.com:443 mode=global
+12:34:21 INF [TCP] connected lAddr=127.0.0.1:44312 rAddr=www.youtube.com:443 mode=global
+12:34:22 INF [TCP] connected lAddr=127.0.0.1:44326 rAddr=www.youtube.com:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35132 rAddr=detectportal.firefox.com:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35182 rAddr=firefox.settings.services.mozilla.com:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35168 rAddr=safebrowsing.googleapis.com:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35122 rAddr=services.addons.mozilla.org:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35140 rAddr=contile.services.mozilla.com:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35176 rAddr=incoming.telemetry.mozilla.org:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35156 rAddr=content-signature-2.cdn.mozilla.net:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35184 rAddr=detectportal.firefox.com:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35206 rAddr=r3.o.lencr.org:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35236 rAddr=ocsp.digicert.com:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35214 rAddr=r3.o.lencr.org:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35208 rAddr=r3.o.lencr.org:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35196 rAddr=detectportal.firefox.com:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35226 rAddr=ocsp.pki.goog:80 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35252 rAddr=44.234.248.92:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35284 rAddr=incoming.telemetry.mozilla.org:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35268 rAddr=incoming.telemetry.mozilla.org:443 mode=global
+12:34:43 INF [TCP] connected lAddr=127.0.0.1:35286 rAddr=ocsp.digicert.com:80 mode=global
+12:34:44 INF [TCP] connected lAddr=127.0.0.1:35302 rAddr=www.youtube.com:443 mode=global
+12:34:44 INF [TCP] connected lAddr=127.0.0.1:35262 rAddr=firefox.settings.services.mozilla.com:443 mode=global
+12:34:44 INF [TCP] connected lAddr=127.0.0.1:35318 rAddr=ocsp.pki.goog:80 mode=global
+12:34:45 INF [TCP] connected lAddr=127.0.0.1:35336 rAddr=fonts.googleapis.com:443 mode=global
+12:34:45 INF [TCP] connected lAddr=127.0.0.1:56178 rAddr=googleads.g.doubleclick.net:443 mode=global
+12:34:45 INF [TCP] connected lAddr=127.0.0.1:56188 rAddr=ocsp.pki.goog:80 mode=global
+12:34:45 INF [TCP] connected lAddr=127.0.0.1:56190 rAddr=so.csdn.net:443 mode=global
+12:34:45 INF [TCP] connected lAddr=127.0.0.1:35342 rAddr=fonts.gstatic.com:443 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56218 rAddr=www.google.com.hk:443 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56202 rAddr=www.google.com:443 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:35326 rAddr=i.ytimg.com:443 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56264 rAddr=ocsp.pki.goog:80 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56260 rAddr=ocsp.pki.goog:80 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56276 rAddr=ocsp.dcocsp.cn:80 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56284 rAddr=ocsp.pki.goog:80 mode=global
+12:34:46 INF [TCP] connected lAddr=127.0.0.1:56312 rAddr=hm.baidu.com:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56404 rAddr=msg.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56386 rAddr=kunpeng.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56366 rAddr=silkroad.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56472 rAddr=devbit-api.csdn.net:8086 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56470 rAddr=devbit-api.csdn.net:8086 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56436 rAddr=img-blog.csdnimg.cn:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56330 rAddr=ocsp.globalsign.com:80 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56338 rAddr=silkroad.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56380 rAddr=kunpeng.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56354 rAddr=event.csdn.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56304 rAddr=gsp0.baidu.com:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56486 rAddr=static.doubleclick.net:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56476 rAddr=jnn-pa.googleapis.com:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56504 rAddr=ocsp.pki.goog:80 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56488 rAddr=ocsp.pki.goog:80 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56464 rAddr=devbit-api.csdn.net:8086 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56512 rAddr=www.gstatic.com:443 mode=global
+12:34:47 INF [TCP] connected lAddr=127.0.0.1:56536 rAddr=devbit-api.csdn.net:8086 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56586 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56614 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56604 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56286 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56550 rAddr=statistic.csdn.net:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56598 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56562 rAddr=zhannei-dm.csdn.net:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56570 rAddr=csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56666 rAddr=status.rapidssl.com:80 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56646 rAddr=status.rapidssl.com:80 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56632 rAddr=status.rapidssl.com:80 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56654 rAddr=status.rapidssl.com:80 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56630 rAddr=status.rapidssl.com:80 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56332 rAddr=silkroad.csdn.net:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56388 rAddr=msg.csdn.net:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56420 rAddr=profile-avatar.csdnimg.cn:443 mode=global
+12:34:48 INF [TCP] connected lAddr=127.0.0.1:56362 rAddr=profile.csdnimg.cn:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56678 rAddr=rr4---sn-i3bssn7e.googlevideo.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56752 rAddr=rr1---sn-i3belnll.googlevideo.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56716 rAddr=rr4---sn-i3bssn7e.googlevideo.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56744 rAddr=rr1---sn-i3belnll.googlevideo.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56728 rAddr=tpc.googlesyndication.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56766 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56782 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56798 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56814 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56808 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56818 rAddr=www.gstatic.com:443 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56834 rAddr=ocsp.pki.goog:80 mode=global
+12:34:49 INF [TCP] connected lAddr=127.0.0.1:56850 rAddr=pagead2.googlesyndication.com:443 mode=global
+12:34:50 INF [TCP] connected lAddr=127.0.0.1:56854 rAddr=i.ytimg.com:443 mode=global
+12:35:01 INF [TCP] connected lAddr=127.0.0.1:33524 rAddr=www.youtube.com:443 mode=global
+12:35:02 INF [TCP] connected lAddr=127.0.0.1:33526 rAddr=www.youtube.com:443 mode=global
+12:35:06 INF [TCP] connected lAddr=127.0.0.1:33538 rAddr=www.youtube.com:443 mode=global
+12:35:07 INF [TCP] connected lAddr=127.0.0.1:40528 rAddr=www.youtube.com:443 mode=global
+12:35:08 INF [TCP] connected lAddr=127.0.0.1:40534 rAddr=www.youtube.com:443 mode=global
+12:35:09 INF [TCP] connected lAddr=127.0.0.1:40548 rAddr=www.youtube.com:443 mode=global
+12:35:10 INF [TCP] connected lAddr=127.0.0.1:40554 rAddr=www.youtube.com:443 mode=global
+12:35:12 INF [TCP] connected lAddr=127.0.0.1:40570 rAddr=www.youtube.com:443 mode=global
+12:35:12 INF [TCP] connected lAddr=127.0.0.1:40574 rAddr=www.youtube.com:443 mode=global
+12:35:12 INF [TCP] connected lAddr=127.0.0.1:40586 rAddr=www.youtube.com:443 mode=global
+12:35:13 INF [TCP] connected lAddr=127.0.0.1:40598 rAddr=www.youtube.com:443 mode=global
+12:35:17 INF [TCP] connected lAddr=127.0.0.1:37588 rAddr=bizapi.csdn.net:443 mode=global
+12:35:18 INF [TCP] connected lAddr=127.0.0.1:37574 rAddr=bizapi.csdn.net:443 mode=global
+12:35:18 INF [TCP] connected lAddr=127.0.0.1:37592 rAddr=play.google.com:443 mode=global
+12:35:18 INF [TCP] connected lAddr=127.0.0.1:37590 rAddr=play.google.com:443 mode=global
+12:35:18 INF [TCP] connected lAddr=127.0.0.1:37598 rAddr=hm.baidu.com:443 mode=global
+12:35:19 INF [TCP] connected lAddr=127.0.0.1:37614 rAddr=www.youtube.com:443 mode=global
+12:35:20 INF [TCP] connected lAddr=127.0.0.1:37616 rAddr=www.youtube.com:443 mode=global
+12:35:20 INF [TCP] connected lAddr=127.0.0.1:37624 rAddr=www.youtube.com:443 mode=global
+12:35:21 INF [TCP] connected lAddr=127.0.0.1:37626 rAddr=www.youtube.com:443 mode=global
+12:35:21 INF [TCP] connected lAddr=127.0.0.1:37638 rAddr=www.youtube.com:443 mode=global
+12:35:21 INF [TCP] connected lAddr=127.0.0.1:37642 rAddr=www.youtube.com:443 mode=global
+12:35:22 INF [TCP] connected lAddr=127.0.0.1:37648 rAddr=www.youtube.com:443 mode=global
+12:35:42 INF [TCP] connected lAddr=127.0.0.1:53080 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+12:35:42 INF [TCP] connected lAddr=127.0.0.1:53082 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+12:35:42 INF [TCP] connected lAddr=127.0.0.1:53094 rAddr=detectportal.firefox.com:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[香港 02]
+12:35:49 INF [TCP] connected lAddr=127.0.0.1:43896 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:50 INF [TCP] connected lAddr=127.0.0.1:43912 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:50 INF [TCP] connected lAddr=127.0.0.1:43926 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:50 INF [TCP] connected lAddr=127.0.0.1:43938 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:51 INF [TCP] connected lAddr=127.0.0.1:43954 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:51 INF [TCP] connected lAddr=127.0.0.1:43964 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:52 INF [TCP] connected lAddr=127.0.0.1:43966 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:52 INF [TCP] connected lAddr=127.0.0.1:43974 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:53 INF [TCP] connected lAddr=127.0.0.1:43984 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:53 INF [TCP] connected lAddr=127.0.0.1:43990 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:59 INF [TCP] connected lAddr=127.0.0.1:34734 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:35:59 INF [TCP] connected lAddr=127.0.0.1:34744 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:00 INF [TCP] connected lAddr=127.0.0.1:34760 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:00 INF [TCP] connected lAddr=127.0.0.1:34768 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:01 INF [TCP] connected lAddr=127.0.0.1:34784 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:01 INF [TCP] connected lAddr=127.0.0.1:34792 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:02 INF [TCP] connected lAddr=127.0.0.1:34794 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:02 INF [TCP] connected lAddr=127.0.0.1:34806 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:03 INF [TCP] connected lAddr=127.0.0.1:34812 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:03 INF [TCP] connected lAddr=127.0.0.1:34814 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:08 INF [TCP] connected lAddr=127.0.0.1:33690 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]
+12:36:15 INF [TCP] connected lAddr=127.0.0.1:32802 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:17 INF [TCP] connected lAddr=127.0.0.1:32816 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:17 INF [TCP] connected lAddr=127.0.0.1:32830 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:17 INF [TCP] connected lAddr=127.0.0.1:32834 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:18 INF [TCP] connected lAddr=127.0.0.1:32844 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:18 INF [TCP] connected lAddr=127.0.0.1:32860 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:19 INF [TCP] connected lAddr=127.0.0.1:32864 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:19 INF [TCP] connected lAddr=127.0.0.1:32874 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:20 INF [TCP] connected lAddr=127.0.0.1:32890 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:20 INF [TCP] connected lAddr=127.0.0.1:32892 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:27 INF [TCP] connected lAddr=127.0.0.1:48668 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:33 INF [TCP] connected lAddr=127.0.0.1:48682 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:34 INF [TCP] connected lAddr=127.0.0.1:48694 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:34 INF [TCP] connected lAddr=127.0.0.1:48706 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:38 INF [TCP] connected lAddr=127.0.0.1:48720 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:38 INF [TCP] connected lAddr=127.0.0.1:42294 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:40 INF [TCP] connected lAddr=127.0.0.1:42300 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:40 INF [TCP] connected lAddr=127.0.0.1:42310 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:43 INF [TCP] connected lAddr=127.0.0.1:42316 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:43 INF [TCP] connected lAddr=127.0.0.1:42322 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:43 INF [TCP] connected lAddr=127.0.0.1:42330 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:44 INF [TCP] connected lAddr=127.0.0.1:42336 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:49 INF [TCP] connected lAddr=127.0.0.1:42146 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:50 INF [TCP] connected lAddr=127.0.0.1:42162 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:51 INF [TCP] connected lAddr=127.0.0.1:42164 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:51 INF [TCP] connected lAddr=127.0.0.1:42174 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:51 INF [TCP] connected lAddr=127.0.0.1:42180 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:52 INF [TCP] connected lAddr=127.0.0.1:42194 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:36:52 INF [TCP] connected lAddr=127.0.0.1:42204 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=🌍 国外媒体[香港 02]
+12:37:53 INF [TCP] connected lAddr=127.0.0.1:60170 rAddr=hm.baidu.com:443 mode=rule rule=DomainSuffix(hm.baidu.com) proxy=🍃 应用净化[REJECT]

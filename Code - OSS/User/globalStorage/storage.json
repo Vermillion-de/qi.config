@@ -4,7 +4,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/chi/git_proj/CoupletAI"
+                "folderUri": "file:///home/chi/Documents/spider"
+            },
+            {
+                "folderUri": "file:///home/chi/Documents/selenium"
             }
         ],
         "emptyWindows": []
@@ -52,6 +55,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chi/Documents/spider",
+                                        "path": "/home/chi/Documents/spider",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/spider"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -134,8 +148,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "全部保存(&&L)",
-                        "enabled": false
+                        "label": "全部保存(&&L)"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -145,13 +158,6 @@
                         "label": "共享",
                         "submenu": {
                             "items": [
-                                {
-                                    "id": "github.copyVscodeDevLinkFile",
-                                    "label": "Copy vscode.dev Link"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "导出配置文件(默认)...",
@@ -457,8 +463,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -765,45 +770,54 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "第 3 组(&&3)"
+                                    "label": "第 3 组(&&3)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "第 4 组(&&4)"
+                                    "label": "第 4 组(&&4)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "第 5 组(&&5)"
+                                    "label": "第 5 组(&&5)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "下一个组(&&N)"
+                                    "label": "下一个组(&&N)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "上一个组(&&P)"
+                                    "label": "上一个组(&&P)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "左侧组(&&L)"
+                                    "label": "左侧组(&&L)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "右侧组(&&R)"
+                                    "label": "右侧组(&&R)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "上方组(&&A)"
+                                    "label": "上方组(&&A)",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "下方组(&&B)"
+                                    "label": "下方组(&&B)",
+                                    "enabled": false
                                 }
                             ]
                         }
@@ -1004,7 +1018,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "拆分终端(&&S)"
+                        "label": "拆分终端(&&S)",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1168,6 +1183,7 @@
             },
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
@@ -1239,6 +1255,7 @@
             },
             "editor.action.commentLine": {
                 "label": "Ctrl+/",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
@@ -1320,10 +1337,12 @@
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
@@ -1371,6 +1390,7 @@
             },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+`"
             },
             "editor.action.toggleWordWrap": {
@@ -1379,10 +1399,12 @@
             },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1478,6 +1500,7 @@
             },
             "editor.action.jumpToBracket": {
                 "label": "Ctrl+Shift+\\",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
@@ -1538,6 +1561,7 @@
             },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
@@ -1585,13 +1609,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/chi/git_proj/CoupletAI",
-            "backupPath": "/home/chi/.config/Code - OSS/Backups/d30f044d2a45cb86ed3a6c9d8ce41943",
+            "folder": "file:///home/chi/Documents/selenium",
+            "backupPath": "/home/chi/.config/Code - OSS/Backups/b174c10b7dc1300a8fc0440dc2930ae4",
             "uiState": {
                 "mode": 1,
-                "x": 771,
+                "x": 1026,
                 "y": 27,
-                "width": 757,
+                "width": 502,
                 "height": 829
             }
         },

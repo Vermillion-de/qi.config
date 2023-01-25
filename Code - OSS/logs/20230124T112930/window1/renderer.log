@@ -1,0 +1,2 @@
+2023-01-24 11:29:34.852 [info] [perf] Render performance baseline is 55ms
+2023-01-24 11:29:42.011 [error] Error while registering log channel file:///home/chi/.config/Code%20-%20OSS/logs/20230124T112930/userDataSync.log Timed out while waiting for file to be created

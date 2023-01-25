@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP1 Height 1920x1080 eDP1=720
+eDP1 Width 1920x1080 eDP1=1082
+
+[KFileDialog Settings]
+Recent Files[$e]=vlog.zip,file:///mnt/vlog.zip
+Recent URLs[$e]=file:///mnt/
+detailViewIconSize=16

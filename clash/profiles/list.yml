@@ -3,15 +3,39 @@ files:
     time: 1674131432556.yml
     name: config.yaml
     selected: []
+    mode: global
   - time: 1674131564308.yml
     name: EEVPN
     url: https://api.eejsq.org/api/v1/client/subscribe?token=04603891c238e03020cea74e23f9c5f3
-    selected: []
+    selected:
+      - name: GLOBAL
+        now: 香港 02
+      - name: 🚀 节点选择
+        now: 香港 02
+      - name: 🚀 手动切换
+        now: 香港 02
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🚀 节点选择
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
     interval: 24
     subInfo:
-      upload: 359664195
-      download: 37395384401
+      upload: 490315396
+      download: 52466189092
       total: 214748364800
       expire: 1675948963
     homeWeb: ""
+    mode: rule
 index: 1

@@ -1,0 +1,7 @@
+2023-01-24 11:18:13.832 [info] Starting worker process with pid 14158 (type: fileWatcher, window: 1).
+2023-01-24 11:19:56.762 [info] Getting Manifest... tuxtina.json2yaml
+2023-01-24 11:20:18.589 [info] Installing extension: tuxtina.json2yaml
+2023-01-24 11:20:22.011 [info] Extracted extension to /home/chi/.vscode-oss/extensions/.4f766b5f-75c8-496a-a64c-14296a6c5a33: tuxtina.json2yaml
+2023-01-24 11:20:22.023 [info] Renamed to /home/chi/.vscode-oss/extensions/tuxtina.json2yaml-0.2.0-universal
+2023-01-24 11:20:22.024 [info] Extracting completed. tuxtina.json2yaml
+2023-01-24 11:20:22.032 [info] Extension installed successfully: tuxtina.json2yaml

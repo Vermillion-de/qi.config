@@ -1,0 +1,6 @@
+2023/01/24-11:26:14.969 813 Reusing MANIFEST /home/chi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/24-11:26:14.969 813 Recovering log #3
+2023/01/24-11:26:14.987 813 Reusing old log /home/chi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/01/24-11:27:23.421 843 Level-0 table #5: started
+2023/01/24-11:27:23.434 843 Level-0 table #5: 1112114 bytes OK
+2023/01/24-11:27:23.439 843 Delete type=0 #3

@@ -1,0 +1,17 @@
+2023-01-22 21:24:21.928 [info] Extension host with pid 11474 started
+2023-01-22 21:24:21.928 [info] Skipping acquiring lock for /home/chi/.config/Code - OSS/User/workspaceStorage/25cede6797b4c0e79543ac79520d531b.
+2023-01-22 21:24:22.121 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-22 21:24:22.171 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-22 21:24:22.171 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-22 21:24:22.279 [warning] Using default string since no string found in i18n bundle that has the key: GitHub
+2023-01-22 21:24:22.280 [info] Eager extensions activated
+2023-01-22 21:24:22.309 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 21:24:22.309 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 21:24:22.310 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 21:24:22.310 [info] ExtensionService#_doActivateExtension PascalReitermann93.vscode-yaml-sort, startup: false, activationEvent: 'onStartupFinished'
+2023-01-22 21:24:51.363 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onWebviewPanel:markdown.preview'
+2023-01-22 21:24:51.685 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-01-22 21:24:51.685 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-01-22 21:24:51.788 [warning] Using default string since no string found in i18n bundle that has the key: This activation event cannot be explicitly listed by your extension.
+2023-01-22 21:24:52.510 [info] Extension host terminating: received terminate message from renderer
+2023-01-22 21:24:52.538 [info] Extension host with pid 11474 exiting with code 0
